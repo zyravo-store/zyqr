@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "product": "ZyQR",
-  "version": "1.0.0",
-  "build": "260727",
-  "displayVersion": "Version 1.0.0 (260727)",
-  "tag": "v1.0.0",
-  "releaseTitle": "ZyQR 1.0.0 (260727)",
+  "version": "1.0.2",
+  "build": "2610110905",
+  "displayVersion": "Version 1.0.2 (2610110905)",
+  "tag": "v1.0.2",
+  "releaseTitle": "ZyQR 1.0.2 (2610110905)",
   "website": "https://zyqr.zyravo.store",
   "supportEmail": "support@zyravo.store",
   "feedbackEmail": "feedback@zyravo.store",
   "issuesUrl": "https://github.com/zyravo-store/zyqr/issues",
   "wikiUrl": "https://github.com/zyravo-store/zyqr/wiki",
-  "releaseUrl": "https://github.com/zyravo-store/zyqr/releases/tag/v1.0.0",
+  "releaseUrl": "https://github.com/zyravo-store/zyqr/releases/tag/v1.0.2",
   "updates": {
     "en": [
       "Initial stable release of ZyQR."
@@ -34,36 +34,36 @@
   },
   "packages": {
     "chrome": {
-      "file": "zyqr-chrome-1.0.0.zip",
-      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.0/zyqr-chrome-1.0.0.zip"
+      "file": "zyqr-chrome-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-chrome-1.0.2.zip"
     },
     "edge": {
-      "file": "zyqr-edge-1.0.0.zip",
-      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.0/zyqr-edge-1.0.0.zip"
+      "file": "zyqr-edge-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-edge-1.0.2.zip"
     },
     "firefox": {
-      "file": "zyqr-firefox-1.0.0.zip",
-      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.0/zyqr-firefox-1.0.0.zip"
+      "file": "zyqr-firefox-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-firefox-1.0.2.zip"
     },
     "windows": {
-      "file": "zyqr-windows-1.0.0.zip",
-      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.0/zyqr-windows-1.0.0.zip"
+      "file": "zyqr-windows-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-windows-1.0.2.zip"
     },
     "linux": {
-      "file": "zyqr-linux-1.0.0.tar.gz",
-      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.0/zyqr-linux-1.0.0.tar.gz"
+      "file": "zyqr-linux-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-linux-1.0.2.zip"
     },
     "macos-pkg": {
-      "file": "zyqr-macos-1.0.0.pkg",
-      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.0/zyqr-macos-1.0.0.pkg"
+      "file": "zyqr-macos-1.0.2.pkg",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-macos-1.0.2.pkg"
     },
     "macos-dmg": {
-      "file": "zyqr-macos-1.0.0.dmg",
-      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.0/zyqr-macos-1.0.0.dmg"
+      "file": "zyqr-macos-1.0.2.dmg",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-macos-1.0.2.dmg"
     },
     "checksums": {
-      "file": "zyqr-1.0.0-sha256.txt",
-      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.0/zyqr-1.0.0-sha256.txt"
+      "file": "zyqr-1.0.2-sha256.txt",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-1.0.2-sha256.txt"
     }
   }
 }

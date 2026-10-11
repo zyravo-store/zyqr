@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "product": "ZyQR",
+  "version": "1.0.2",
+  "build": "2610110905",
+  "displayVersion": "Version 1.0.2 (2610110905)",
+  "tag": "v1.0.2",
+  "releaseTitle": "ZyQR 1.0.2 (2610110905)",
+  "website": "https://zyqr.zyravo.store",
+  "supportEmail": "support@zyravo.store",
+  "feedbackEmail": "feedback@zyravo.store",
+  "issuesUrl": "https://github.com/zyravo-store/zyqr/issues",
+  "wikiUrl": "https://github.com/zyravo-store/zyqr/wiki",
+  "releaseUrl": "https://github.com/zyravo-store/zyqr/releases/tag/v1.0.2",
+  "updates": {
+    "en": [
+      "Initial stable release of ZyQR."
+    ],
+    "zh-CN": [
+      "ZyQR 首个稳定版本。"
+    ]
+  },
+  "features": {
+    "en": [
+      "Create QR codes for text, links, and common structured content.",
+      "Scan QR codes from images and browser pages.",
+      "Customize appearance and export PNG, SVG, or WebP files."
+    ],
+    "zh-CN": [
+      "为文本、链接和常用结构化内容生成二维码。",
+      "从图片和浏览器页面识别二维码。",
+      "自定义样式并导出 PNG、SVG 或 WebP 文件。"
+    ]
+  },
+  "packages": {
+    "chrome": {
+      "file": "zyqr-chrome-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-chrome-1.0.2.zip"
+    },
+    "edge": {
+      "file": "zyqr-edge-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-edge-1.0.2.zip"
+    },
+    "firefox": {
+      "file": "zyqr-firefox-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-firefox-1.0.2.zip"
+    },
+    "windows": {
+      "file": "zyqr-windows-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-windows-1.0.2.zip"
+    },
+    "linux": {
+      "file": "zyqr-linux-1.0.2.zip",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-linux-1.0.2.zip"
+    },
+    "macos-pkg": {
+      "file": "zyqr-macos-1.0.2.pkg",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-macos-1.0.2.pkg"
+    },
+    "macos-dmg": {
+      "file": "zyqr-macos-1.0.2.dmg",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-macos-1.0.2.dmg"
+    },
+    "checksums": {
+      "file": "zyqr-1.0.2-sha256.txt",
+      "url": "https://github.com/zyravo-store/zyqr/releases/download/v1.0.2/zyqr-1.0.2-sha256.txt"
+    }
+  },
+  "changes": {
+    "en": [
+      "Create QR codes for text, links, and common structured content.",
+      "Scan QR codes from images and browser pages.",
+      "Customize appearance and export PNG, SVG, or WebP files."
+    ],
+    "zh-CN": [
+      "为文本、链接和常用结构化内容生成二维码。",
+      "从图片和浏览器页面识别二维码。",
+      "自定义样式并导出 PNG、SVG 或 WebP 文件。"
+    ]
+  }
+}

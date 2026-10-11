@@ -6,8 +6,8 @@
 
 | Item | Value |
 | --- | --- |
-| Version | Version 1.0.0 (260727) |
-| Release notes and assets | [GitHub Release](https://github.com/zyravo-store/zyqr/releases/tag/v1.0.0) |
+| Version | Version 1.0.2 (2610110905) |
+| Release notes and assets | [GitHub Release](https://github.com/zyravo-store/zyqr/releases/tag/v1.0.2) |
 | Checksums | Included with the assets in the same Release |
 
 ## Features
@@ -18,14 +18,14 @@
 
 ## Downloads and installation
 
-- [Download the verified Release assets](https://github.com/zyravo-store/zyqr/releases/tag/v1.0.0)
+- [Download the verified Release assets](https://github.com/zyravo-store/zyqr/releases/tag/v1.0.2)
 - [English installation guide](https://github.com/zyravo-store/zyqr/wiki/Installation)
 - [简体中文安装指南](https://github.com/zyravo-store/zyqr/wiki/ZH-CN-Installation)
 - Prefer the official browser store or Mac App Store listing when available.
 
 ### Package verification
 
-- Windows ZIP and Linux TAR.GZ files are browser-extension bundles, not native
+- Windows ZIP and Linux ZIP files are browser-extension bundles, not native
   EXE, MSI, AppImage, DEB, or RPM applications. They have no operating-system
   code signature; verify the SHA-256 file from the same Release.
 - Run checksum commands from the directory containing both files. Windows
@@ -54,8 +54,8 @@ Source code is maintained in a separate private repository.
 
 | 项目 | 内容 |
 | --- | --- |
-| 版本 | Version 1.0.0 (260727) |
-| 更新说明与安装包 | [GitHub Release](https://github.com/zyravo-store/zyqr/releases/tag/v1.0.0) |
+| 版本 | Version 1.0.2 (2610110905) |
+| 更新说明与安装包 | [GitHub Release](https://github.com/zyravo-store/zyqr/releases/tag/v1.0.2) |
 | 校验文件 | 与安装包位于同一个 Release |
 
 ### 主要功能
@@ -66,14 +66,14 @@ Source code is maintained in a separate private repository.
 
 ### 下载与安装
 
-- [下载已验证的 Release 安装包](https://github.com/zyravo-store/zyqr/releases/tag/v1.0.0)
+- [下载已验证的 Release 安装包](https://github.com/zyravo-store/zyqr/releases/tag/v1.0.2)
 - [简体中文安装指南](https://github.com/zyravo-store/zyqr/wiki/ZH-CN-Installation)
 - [英文安装指南](https://github.com/zyravo-store/zyqr/wiki/Installation)
 - 浏览器商店或 Mac App Store 版本上线后，优先使用官方商店安装。
 
 ### 安装包校验
 
-- Windows ZIP 与 Linux TAR.GZ 是浏览器扩展合集，不是 EXE、MSI、AppImage、DEB
+- Windows ZIP 与 Linux ZIP 是浏览器扩展合集，不是 EXE、MSI、AppImage、DEB
   或 RPM 原生程序，因此没有系统级代码签名；使用前请校验同一 Release 中的 SHA-256。
 - 在安装包与校验文件所在目录执行校验。Windows PowerShell 使用
   `Get-FileHash <安装包> -Algorithm SHA256`；Linux 使用
